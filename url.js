@@ -6,7 +6,8 @@ const urls = [
     "http://snowboats.glitch.me",
     "http://elixirbot.glitch.me",
     "http://bestest-bot.glitch.me",
-    "http://zyrouge-bot-list.glitch.me/ping"
+    "http://zyrouge-bot-list.glitch.me/ping",
+    "https://api.zyrouge.gq",
 ];
 
 module.exports = urls;
