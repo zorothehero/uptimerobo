@@ -1,6 +1,6 @@
 const urls = [
 
-    "https://managerdiscord.glitch.me"
+    "https://managerdiscords.glitch.me"
 
 ];
 
