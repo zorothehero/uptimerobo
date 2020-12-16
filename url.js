@@ -1,5 +1,5 @@
 const urls = [
- "https://managerdiscordss.glitch.me/"
+ "https://managerdiscordssd.glitch.me/"
 ];
 
 module.exports = urls;
